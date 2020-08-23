@@ -56,11 +56,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [How to watch iflix on windows laptop for free |Jungey Tuber|](https://www.youtube.com/watch?v=B890vy2-6P0)
-- [How to download, install and activate Microsoft office 2016 for free || JUNGEY TUBER ||](https://www.youtube.com/watch?v=-agFTCV38Vo)
-- [How to convert PDF file into WORD](https://www.youtube.com/watch?v=S2zOfqGdVqA)
-- [How to hack a website using SQL injection || Jungey Tuber](https://www.youtube.com/watch?v=AwFhwhuINNk)
-- [How to get coloured mouse cursor or pointer || Realworld cursor editor||](https://www.youtube.com/watch?v=KpdYE1ci7e8)
 <!-- YOUTUBE:END -->
 
 🙌 [More videos...](https://www.youtube.com/channel/UC_YOSQyoq0nm8Mfp2ZZ8fqg)
@@ -70,9 +65,6 @@
 ### 📕 Latest Stackoverflow Activity
 
 <!-- STACKOVERFLOW:START -->
-- [How to decrypt byte array using PHP which i has encrypted on c# ? As show on below code](https://stackoverflow.com/questions/63033173/how-to-decrypt-byte-array-using-php-which-i-has-encrypted-on-c-sharp-as-show-o)
-- [Answer by Binay7587 for How to activate modal from controlller passing data to view. (Laravel)](https://stackoverflow.com/questions/62736992/how-to-activate-modal-from-controlller-passing-data-to-view-laravel/62737216#62737216)
-- [How to activate modal from controlller passing data to view. (Laravel)](https://stackoverflow.com/questions/62736992/how-to-activate-modal-from-controlller-passing-data-to-view-laravel)
 <!-- STACKOVERFLOW:END -->
 
 🙌 [More Activities...](https://stackoverflow.com/users/11777074/binay7587)
