@@ -2,7 +2,6 @@
 
 [![Website](https://img.shields.io/website?label=binayakarki.com.np&style=for-the-badge&url=https%3A%2F%2Fbinayakarki.com.np)](https://binayakarki.com.np)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Binay7587?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Binay7587&screen_name=Binay7587)
-[!["Visitors"](https://visitor-badge.laobi.icu/badge?page_id=binay7587.binay7587)](https://github.com/binay7587)
 [!["Followers"](https://img.shields.io/github/followers/binay7587?color=1DA1F2&logo=github&style=for-the-badge)](https://github.com/binay7587)
 
 ## I'm a Student and Developer !
