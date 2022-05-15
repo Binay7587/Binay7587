@@ -10,7 +10,7 @@
 - 🔭 I’m currently working at [Prithak Creation][working-company].
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 😃  Fun fact: I love animals 🐶, play games and code and code and code
 
 <!-- ### Spotify Playing 🎧
@@ -27,7 +27,7 @@
 - 🔗 I have a personal website at [https://binayakarki.com.np](https://binayakarki.com.np?utm_source=github&utm_medium=profile_readme&utm_campaign=fixed_link) where all my social networks are located ! You can reach me anywhere over there and you can leave your message on website !
 - 📝 I have a blog at [https://binayakarki.com.np](https://binayakarki.com.np/#blogs)
 - 📹 [Subscribe on YouTube](https://www.youtube.com/channel/UC_YOSQyoq0nm8Mfp2ZZ8fqg)
-- 📧 You can also send me an [email](mailto:sayhello@binayakarki.com.np)
+- 📧 You can also send me an [email](mailto:me@binayakarki.com.np)
 
 <br />
 
