@@ -78,6 +78,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [How to watch iflix on windows laptop for free |Jungey Tuber|](https://www.youtube.com/watch?v=B890vy2-6P0)
+- [How to download, install and activate Microsoft office 2016 for free || JUNGEY TUBER ||](https://www.youtube.com/watch?v=-agFTCV38Vo)
+- [How to convert PDF file into WORD](https://www.youtube.com/watch?v=S2zOfqGdVqA)
+- [How to hack a website using SQL injection || Jungey Tuber](https://www.youtube.com/watch?v=AwFhwhuINNk)
+- [How to get coloured mouse cursor or pointer || Realworld cursor editor||](https://www.youtube.com/watch?v=KpdYE1ci7e8)
 <!-- YOUTUBE:END -->
 
 🙌 [More videos...]([youtube])
