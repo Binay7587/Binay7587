@@ -1,19 +1,36 @@
 # Hi, I'm Binaya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
+<img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width='250'/>
+
 [![Website](https://img.shields.io/website?label=binayakarki.com.np&style=for-the-badge&url=https%3A%2F%2Fbinayakarki.com.np)][website]
 [![](https://komarev.com/ghpvc/?username=Binay7587&style=for-the-badge)][github]
 [![Followers](https://img.shields.io/github/followers/binay7587?color=1DA1F2&logo=github&style=for-the-badge)][github]
 
+<p><em> Web Developer at <a href="https://prithakcreation.com">Prithak Creation</a> <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br>
 
-<img align="right" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" width='250'/>
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-## I'm a Student and a Web Developer !
-
-- 🔭 I’m currently working at [Prithak Creation][working-company-url].
-- 🌱 I’m currently learning MERN Stack
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- 😃  Fun fact: I love animals 🐶, play games and code and code and code
+```javascript
+const binaya = {
+    pronouns: "He" | "Him",
+    code: ["Javascript", "Typescript", "php"],
+    askMeAbout: ["web dev", "tech", "app dev", "music", "gaming"],
+    technologies: {
+        frontEnd: {
+            js: ["React", "Vue],
+            css: ["materialize", "SASS", "bootstrap", 'tailwind']
+        },
+        backEnd: {
+            js: ["node", "express"],
+            php: ["laravel"]
+        },
+        databases: ["mongo", "MySql", "sqlite"],
+    },
+    architecture: [ "Progressive web applications", "Single page applications"],
+    2023Goals: "Contribute more to Open Source projects",
+    funFact: "I love animals 🐶, play games and code and code and code"
+};
+```
 
 ### 📫 Connect with me:
 <a href="mailto:me@binayakarki.com.np">
@@ -34,73 +51,36 @@
 
 <br />
 
-- 🔗 I have a personal website at [https://binayakarki.com.np][website] where all my social networks are located ! You can reach me anywhere over there and you can leave your message on website !
-- 📝 I have a blog at [https://binayakarki.com.np][website]
-- 📹 Subscribe on [YouTube][youtube]
-- 📧 You can also send me an [email](mailto:[email])
+## Languages and Tools I am Familiar With:
 
-<br />
-
-## Skills
-
-![](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
 ![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<br /> 
+
+---
+### Show some ❤️ by starring some of the repositories!
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Binay7587&show_icons=true&hide_border=true)
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>Hi, I'll be happy to meet you!</b> :)</em>
+
+
+⭐️ From [@Binay7587](https://github.com/Binay7587)
 <br />
-
----
-
-### 📺 Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [How to watch iflix on windows laptop for free |Jungey Tuber|](https://www.youtube.com/watch?v=B890vy2-6P0)
-- [How to convert PDF file into WORD](https://www.youtube.com/watch?v=S2zOfqGdVqA)
-- [How to hack a website using SQL injection || Jungey Tuber](https://www.youtube.com/watch?v=AwFhwhuINNk)
-- [How to get coloured mouse cursor or pointer || Realworld cursor editor||](https://www.youtube.com/watch?v=KpdYE1ci7e8)
-- [How to make android phone as CCTV camera || Make yourself more secure ||](https://www.youtube.com/watch?v=sqT2N2Mt1b0)
-<!-- YOUTUBE:END -->
-
-🙌 [More videos...]([youtube])
-
----
-
-### 📕 Latest Stackoverflow Activity
-
-<!-- STACKOVERFLOW:START -->
-- [How to transform traditional query into Laravel E.L.O.Q.U.E.N.T QUERY?](https://stackoverflow.com/questions/64088051/how-to-transform-traditional-query-into-laravel-e-l-o-q-u-e-n-t-query)
-- [Answer by Binay7587 for Success message is not showing after submitting form](https://stackoverflow.com/questions/63667126/success-message-is-not-showing-after-submitting-form/63670851#63670851)
-- [How to decrypt byte array using PHP which i has encrypted on c# ? As show on below code](https://stackoverflow.com/questions/63033173/how-to-decrypt-byte-array-using-php-which-i-has-encrypted-on-c-sharp-as-show-o)
-- [Answer by Binay7587 for How to activate modal from controlller passing data to view. &lpar;Laravel&rpar;](https://stackoverflow.com/questions/62736992/how-to-activate-modal-from-controlller-passing-data-to-view-laravel/62737216#62737216)
-- [How to activate modal from controlller passing data to view. &lpar;Laravel&rpar;](https://stackoverflow.com/questions/62736992/how-to-activate-modal-from-controlller-passing-data-to-view-laravel)
-<!-- STACKOVERFLOW:END -->
-
-🙌 [More Activities...]([stackoverflow])
-
 ---
 
 [website]: https://binayakarki.com.np
@@ -112,4 +92,3 @@
 [linkedin]: https://linkedin.com/in/Binay7587
 [telegram]: https://t.me/Binay7587
 [github]: https://github.com/Binay7587
-[stackoverflow]: https://stackoverflow.com/users/11777074/binay7587
