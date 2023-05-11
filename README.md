@@ -13,11 +13,11 @@
 ```javascript
 const binaya = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "Typescript", "php"],
+    code: ["Javascript", "php"],
     askMeAbout: ["web dev", "tech", "app dev", "music", "gaming"],
     technologies: {
         frontEnd: {
-            js: ["React", "Vue],
+            js: ["React", "Vue"],
             css: ["materialize", "SASS", "bootstrap", 'tailwind']
         },
         backEnd: {
