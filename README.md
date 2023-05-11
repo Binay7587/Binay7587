@@ -6,7 +6,8 @@
 [![](https://komarev.com/ghpvc/?username=Binay7587&style=for-the-badge)][github]
 [![Followers](https://img.shields.io/github/followers/binay7587?color=1DA1F2&logo=github&style=for-the-badge)][github]
 
-<p><em> Web Developer at <a href="https://prithakcreation.com">Prithak Creation</a> <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br>
+<!-- <p><em> Web Developer at <a href="https://prithakcreation.com">Prithak Creation</a> <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br> -->
+<p><em> 🚀 Ready to be hired. <img src="https://media.giphy.com/media/fxTxdsbp8AEb6Gaq2B/giphy.gif" width="50" height="30"/></br>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
